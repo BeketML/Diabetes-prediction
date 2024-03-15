@@ -1,0 +1,1 @@
+streamlit run "C:\Users\ASUS\Desktop\ML practise\END to END ML projetcs\diabetes ml project\Diabetes Prediction web app.py"
